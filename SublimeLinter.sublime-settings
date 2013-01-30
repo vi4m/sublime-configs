@@ -1,0 +1,8 @@
+{
+    "sublimelinter_mark_style": "none",
+    "sublimelinter_gutter_marks": true,
+    "sublimelinter_fill_outlines": false,
+    "sublimelinter_popup_errors_on_save": false,
+    "pep8": true,
+    "sublimelinter_notes": false
+}

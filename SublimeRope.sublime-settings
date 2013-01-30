@@ -1,0 +1,7 @@
+{
+    "complete_as_you_type": true,
+    "pyflakes_linting": false,
+    "suppress_word_completions": true,
+    "suppress_explicit_completions": true,
+    "use_simple_completion": false
+}

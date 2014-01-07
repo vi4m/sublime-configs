@@ -1,22 +1,31 @@
 {
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"AngularJS",
+		"AngularJS (CoffeeScript)",
+		"AngularJS Attributes Completion",
+		"Better Completion",
+		"Browser Refresh",
 		"Change Tracker",
 		"Djaneiro",
-		"Emmet",
 		"Gist",
-		"Git",
-		"LastEdit",
+		"GitGutter",
+		"Goto Documentation",
+		"Jedi - Python autocompletion",
 		"Package Control",
 		"Python Imports Sorter",
 		"Restructured Text (RST) Snippets",
-		"RstPreview",
 		"rsub",
-		"SideBarEnhancements",
-		"SideBarGit",
 		"SublimeLinter",
-		"SublimeRope",
+		"SublimeLinter-annotations",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
 		"SyncedSideBar",
 		"Theme - Soda"
+	],
+	"repositories":
+	[
 	]
 }

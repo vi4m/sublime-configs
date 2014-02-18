@@ -11,13 +11,17 @@
 	"caret_style": "wide",
 	"color_scheme": "Packages/User/Espresso Soda (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
-	"font_size": 19,
+	"font_size": 21,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Djaneiro",
-		"Jedi - Python autocompletion"
+		"SublimeLinter-html-tidy",
+		"SublimeLinter",
+		"Jedi - Python autocompletion",
+		"SublimeLinter-annotations",
+		"SublimeLinter-jshint",
+		"GitGutter"
 	],
 	"match_brackets_angle": true,
 	"reveal-on-activate": true,

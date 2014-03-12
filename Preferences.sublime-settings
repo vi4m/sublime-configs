@@ -1,6 +1,6 @@
 {
 	"auto_close_tags": true,
-	"auto_complete_delay": 350,
+	"auto_complete_delay": 1350,
 	"auto_complete_triggers":
 	[
 		{

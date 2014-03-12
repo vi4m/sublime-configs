@@ -3,9 +3,6 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"AngularJS",
-		"AngularJS (CoffeeScript)",
-		"AngularJS Attributes Completion",
 		"Better Completion",
 		"Browser Refresh",
 		"Change Tracker",
@@ -20,7 +17,6 @@
 		"Python Imports Sorter",
 		"Restructured Text (RST) Snippets",
 		"rsub",
-		"Sublimall",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-html-tidy",

@@ -2,7 +2,8 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
-		"AdvancedNewFile",
+		"3024 Color Scheme",
+		"AutoWrap",
 		"Better Completion",
 		"Browser Refresh",
 		"Change Tracker",
@@ -14,15 +15,18 @@
 		"Goto Documentation",
 		"Jedi - Python autocompletion",
 		"Package Control",
+		"PyDOC",
 		"Python Imports Sorter",
-		"Restructured Text (RST) Snippets",
+		"RestructuredText Improved",
 		"rsub",
+		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
+		"SublimeLinter-flake8",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
-		"SyncedSideBar",
-		"Theme - Soda"
+		"SublimeLinter-rst",
+		"SyncedSideBar"
 	],
 	"repositories":
 	[
